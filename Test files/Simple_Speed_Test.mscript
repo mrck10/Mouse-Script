@@ -1,0 +1,20 @@
+:Loop
+$counter += 1;
+if $counter=500; goto Done;
+Echo $counter;
+goto Loop;
+
+:Main
+Clear;
+$using = "Console";
+Pause;
+$counter = 0;
+goto Loop;
+
+:Done
+Echo "-------------------------";
+Echo " COMPLETED SPEED TEST";
+Echo "-------------------------";
+Pause;
+Exit;
+

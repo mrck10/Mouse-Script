@@ -1,0 +1,9 @@
+:Loop
+$counter += $args[0];
+Echo $counter;
+goto Loop;
+
+:Main
+$using = "Console";
+$counter = 0;
+goto Loop >> 20;

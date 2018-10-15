@@ -1,0 +1,27 @@
+:FunctionTwo
+Print $args[0];
+Print " + ";
+Print $args[1];
+Print " = ";
+$math=0;
+$math += $args[0];
+$math += $args[1];
+Print $math;
+Pause;
+Exit;
+
+:FunctionOne
+Echo $args[0];
+Sleep 1000;
+Print "Number One >";
+$var1 = Input;
+Print "Number Two >";
+$var2 = Input;
+goto FunctionTwo >> $var1,$var2;
+
+
+:Main
+Cls
+$using = "Console";
+Echo "Testing functions...";
+goto FunctionOne >> "fuck you fatty",23;

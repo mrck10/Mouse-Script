@@ -1,0 +1,3 @@
+:Main
+Msgbox "Hello world";
+Exit;
