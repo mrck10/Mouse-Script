@@ -1,0 +1,6 @@
+:Main
+$using = "Console";
+:Top
+$var = Random;100;999;
+Echo $var;
+goto top;
