@@ -1,0 +1,13 @@
+:Main
+$using = "Console";
+$Console_Title = "Hello world";
+$Console_Width = 600;
+$Console_Height = 600;
+$var = "Hello World";
+Echo $var;
+$var = $Console_Width;
+Echo $var;
+$var = $Console_Height;
+Echo $var;
+
+Pause;
