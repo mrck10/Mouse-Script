@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "isharp", "isharp\isharp.vcxproj", "{8AF63C07-B15B-4D69-BB85-2444FAF790E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse Sharp Editor", "..\Mouse Sharp Editor\Mouse Sharp Editor.csproj", "{86F2E103-4CE8-4A0C-A465-E9A9EA30FA0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse Sharp Editor", "C:\Users\Admin\Dropbox\Mouse Sharp Project\Mouse Sharp Editor\Mouse Sharp Editor.csproj", "{86F2E103-4CE8-4A0C-A465-E9A9EA30FA0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
