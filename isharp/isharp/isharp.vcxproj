@@ -143,31 +143,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="argv_range.h" />
-    <ClInclude Include="console_functions.h" />
-    <ClInclude Include="keys.h" />
-    <ClInclude Include="lexer.h" />
     <ClInclude Include="parser.h" />
-    <ClInclude Include="PF.h" />
-    <ClInclude Include="Random.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="script_handler.h" />
     <ClInclude Include="stackoverflowclasses.h" />
-    <ClInclude Include="standard.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
-    <ClInclude Include="trim_functions.h" />
-    <ClInclude Include="var_manager.h" />
+    <ClInclude Include="variableHelper.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="argv_range.cpp" />
-    <ClCompile Include="console_functions.cpp" />
     <ClCompile Include="isharp.cpp" />
-    <ClCompile Include="keys.cpp" />
-    <ClCompile Include="lexer.cpp" />
     <ClCompile Include="parser.cpp" />
-    <ClCompile Include="PF.cpp" />
-    <ClCompile Include="Random.cpp" />
     <ClCompile Include="script_handler.cpp" />
     <ClCompile Include="stackoverflowclasses.cpp" />
     <ClCompile Include="stdafx.cpp">
@@ -176,8 +162,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="trim_functions.cpp" />
-    <ClCompile Include="var_manager.cpp" />
+    <ClCompile Include="variableHelper.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="isharp.rc" />
