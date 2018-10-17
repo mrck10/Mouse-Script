@@ -86,6 +86,9 @@ https://github.com/ei
             <Key word="$Console_Font_Size"/>
             <Key word="$Console_Cursor_Pos_X"/>
             <Key word="$Console_Cursor_Pos_Y"/>
+            <Key word="$Console_Title"/>
+            <Key word="$Console_Width"/>
+            <Key word="$Console_Height"/>
             <Key word="$using"/>
           </KeyWords>
 

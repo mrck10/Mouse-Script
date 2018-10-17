@@ -13,3 +13,17 @@ C:\Users\Admin\Dropbox\Mouse Sharp Project\Mouse Sharp Editor\obj\Debug\Mouse Sh
 C:\Users\Admin\Dropbox\Mouse Sharp Project\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.exe
 C:\Users\Admin\Dropbox\Mouse Sharp Project\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.pdb
 C:\Users\Admin\Dropbox\Mouse Sharp Project\Mouse Sharp Editor\bin\Debug\XML_EDITOR.xshd
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\bin\Debug\XML_EDITOR.xshd
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\bin\Debug\Mouse Sharp Editor.exe.config
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\bin\Debug\Mouse Sharp Editor.exe
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\bin\Debug\Mouse Sharp Editor.pdb
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\bin\Debug\DarkUI.pdb
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\bin\Debug\ImperatorLib.pdb
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.csprojAssemblyReference.cache
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse_Sharp_Editor.Form1.resources
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse_Sharp_Editor.Properties.Resources.resources
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.csproj.GenerateResource.cache
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.csproj.CoreCompileInputs.cache
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.csproj.CopyComplete
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.exe
+A:\ProgramData\GitHub\Mouse-Script\Mouse Sharp Editor\obj\Debug\Mouse Sharp Editor.pdb
